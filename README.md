@@ -1,6 +1,6 @@
 Radix Tree Features of this Implementation
 
-Utilizes loops instead of recursion for that tested to be much faster searches than recursion.
+Utilizes loops instead of recursion that tested to be much faster searches than recursion.
 
 Almost all actions use a single common search function.
 
